@@ -24,30 +24,6 @@ A React application utilizing `react-konva` to create an interactive sticker can
    git clone https://github.com/Gursharan-Reddy/Sticker_app.git
    cd Sticker_app/myera-sticker-app
 
-npm install
-
-npm start
-
-
-📁 Project Structure
-Sticker_app/
-└── myera-sticker-app/
-    ├── public/
-    │   └── index.html
-    ├── src/
-    │   ├── components/
-    │   │   ├── Canvas.js
-    │   │   └── StickerButton.js
-    │   ├── assets/
-    │   │   └── stickers/
-    │   │       ├── sticker1.png
-    │   │       ├── sticker2.png
-    │   │       └── sticker3.png
-    │   ├── App.js
-    │   └── index.js
-    ├── package.json
-    └── README.md
-
 🧑‍💻 Author
 B Gursharan Reddy
 Frontend Developer | React Enthusiast
