@@ -1,0 +1,11 @@
+.sticker-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.sticker-icon {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+}
